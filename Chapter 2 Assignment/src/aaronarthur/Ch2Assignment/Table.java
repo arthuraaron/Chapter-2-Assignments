@@ -1,4 +1,5 @@
 package aaronarthur.Ch2Assignment;
+// Aaron Arthur 9/18 Assignment 1 - Table
 
 public class Table {
 
